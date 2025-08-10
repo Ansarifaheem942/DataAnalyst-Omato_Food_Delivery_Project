@@ -10,6 +10,8 @@ Key Insights:
 . ✅ Most used payment method: UPI
 
 📌 Built with Power BI, DAX, Power Query.
+#PowerBI #DataAnalytics #Dashboard #BusinessIntelligence #DataVisualizatin #FoodDelivery
+
 ## DataSet used
 - <a href="https://github.com/Ansarifaheem942/DataAnalyst-Omato_Food_Delivery_Project.git">Dataset</a>
 
