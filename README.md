@@ -17,5 +17,9 @@ Key Insights:
 - <a href="https://github.com/Ansarifaheem942/DataAnalyst-Omato_Food_Delivery_Project.git">Dataset</a>
 ## Dashboard Interactive
 - <a href="https://github.com/Ansarifaheem942/DataAnalyst-Omato_Food_Delivery_Project/blob/main/Omato_Food_Delivery.png">Dashboard</a>
+## View_Dashboard
+<img width="1144" height="635" alt="Omato_Food_Delivery" src="https://github.com/user-attachments/assets/62cc3d9f-c43c-4240-815b-7db42c059b19" />
+
+
 
 
