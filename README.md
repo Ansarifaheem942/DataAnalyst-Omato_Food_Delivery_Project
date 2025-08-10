@@ -1,2 +1,14 @@
-# DataAnalyst-Omato_Food_Delivery_Project
-The OMATO_FOOD_DELIVERY dashboard is an interactive and data-driven report created in Power BI to analyze food delivery performance. It provides actionable insights into total orders, transaction trends, delivery status, food item popularity, and payment methods. The dashboard enables business stakeholders to make informed decisions.
+OMATO_FOOD_DELIVERY
+I recently created an interactive Power BI dashboard to analyze food delivery performance.
+This dashboard tracks order trends, delivery success rate, top-selling items, and payment method preferences, helping businesses make data-driven decisions.
+
+Key Insights:
+. ✅15K total items delivered
+. ✅ 94% delivery success rate
+. ✅ Top-selling item: Samosa (2.4K orders)
+. ✅ Most used payment method: UPI
+
+📌 Built with Power BI, DAX, Power Query.
+## DataSet used
+
+
